@@ -1,4 +1,4 @@
-# Parallax-Effect
+# Parallax Scrolling Effect
 
 ## Overview
 This project has been done as a part of Erasmus-Traineeship Programme of Web Development. The task is to design a web page with parallax effect, which has been demonstrated.
